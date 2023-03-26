@@ -28,6 +28,10 @@ Follow these steps to install and run the Reddit clone app on your local machine
 ## Test Ingress DNS for the app:
 - Test Ingress by typing this command: `curl http://domain.com/test`
 
+
+![Screenshot (36)](https://user-images.githubusercontent.com/91549516/227775577-26dd1a20-2b02-42e7-816a-437c77553607.png)
+
+
 ## Cluster Monitoring using Prometheus & Grafana
 
 Key Components :
